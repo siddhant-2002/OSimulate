@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\OSimulate.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\OSimulate.dir/objects.a @CMakeFiles\OSimulate.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\OSimulate.dir/objects.a -Wl,--no-whole-archive -o OSimulate.exe -Wl,--out-implib,libOSimulate.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\OSimulate.dir\linkLibs.rsp
