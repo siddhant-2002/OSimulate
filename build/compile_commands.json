@@ -1,92 +1,92 @@
 [
 {
-  "directory": "C:/Users/sidde/Documents/GitHub/OSimulate/build",
-  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/OSimulate.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\OSimulate.dir\\src\\cpu_scheduling\\fcfs.cpp.obj -c C:\\Users\\sidde\\Documents\\GitHub\\OSimulate\\src\\cpu_scheduling\\fcfs.cpp",
-  "file": "C:/Users/sidde/Documents/GitHub/OSimulate/src/cpu_scheduling/fcfs.cpp",
+  "directory": "C:/Users/Piyush Ingle/OneDrive/Documents/GitHub/OSimulate/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/OSimulate.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\OSimulate.dir\\src\\cpu_scheduling\\fcfs.cpp.obj -c \"C:\\Users\\Piyush Ingle\\OneDrive\\Documents\\GitHub\\OSimulate\\src\\cpu_scheduling\\fcfs.cpp\"",
+  "file": "C:/Users/Piyush Ingle/OneDrive/Documents/GitHub/OSimulate/src/cpu_scheduling/fcfs.cpp",
   "output": "CMakeFiles/OSimulate.dir/src/cpu_scheduling/fcfs.cpp.obj"
 },
 {
-  "directory": "C:/Users/sidde/Documents/GitHub/OSimulate/build",
-  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/OSimulate.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\OSimulate.dir\\src\\cpu_scheduling\\proirity.cpp.obj -c C:\\Users\\sidde\\Documents\\GitHub\\OSimulate\\src\\cpu_scheduling\\proirity.cpp",
-  "file": "C:/Users/sidde/Documents/GitHub/OSimulate/src/cpu_scheduling/proirity.cpp",
+  "directory": "C:/Users/Piyush Ingle/OneDrive/Documents/GitHub/OSimulate/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/OSimulate.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\OSimulate.dir\\src\\cpu_scheduling\\proirity.cpp.obj -c \"C:\\Users\\Piyush Ingle\\OneDrive\\Documents\\GitHub\\OSimulate\\src\\cpu_scheduling\\proirity.cpp\"",
+  "file": "C:/Users/Piyush Ingle/OneDrive/Documents/GitHub/OSimulate/src/cpu_scheduling/proirity.cpp",
   "output": "CMakeFiles/OSimulate.dir/src/cpu_scheduling/proirity.cpp.obj"
 },
 {
-  "directory": "C:/Users/sidde/Documents/GitHub/OSimulate/build",
-  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/OSimulate.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\OSimulate.dir\\src\\cpu_scheduling\\rr.cpp.obj -c C:\\Users\\sidde\\Documents\\GitHub\\OSimulate\\src\\cpu_scheduling\\rr.cpp",
-  "file": "C:/Users/sidde/Documents/GitHub/OSimulate/src/cpu_scheduling/rr.cpp",
+  "directory": "C:/Users/Piyush Ingle/OneDrive/Documents/GitHub/OSimulate/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/OSimulate.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\OSimulate.dir\\src\\cpu_scheduling\\rr.cpp.obj -c \"C:\\Users\\Piyush Ingle\\OneDrive\\Documents\\GitHub\\OSimulate\\src\\cpu_scheduling\\rr.cpp\"",
+  "file": "C:/Users/Piyush Ingle/OneDrive/Documents/GitHub/OSimulate/src/cpu_scheduling/rr.cpp",
   "output": "CMakeFiles/OSimulate.dir/src/cpu_scheduling/rr.cpp.obj"
 },
 {
-  "directory": "C:/Users/sidde/Documents/GitHub/OSimulate/build",
-  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/OSimulate.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\OSimulate.dir\\src\\cpu_scheduling\\sjf.cpp.obj -c C:\\Users\\sidde\\Documents\\GitHub\\OSimulate\\src\\cpu_scheduling\\sjf.cpp",
-  "file": "C:/Users/sidde/Documents/GitHub/OSimulate/src/cpu_scheduling/sjf.cpp",
+  "directory": "C:/Users/Piyush Ingle/OneDrive/Documents/GitHub/OSimulate/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/OSimulate.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\OSimulate.dir\\src\\cpu_scheduling\\sjf.cpp.obj -c \"C:\\Users\\Piyush Ingle\\OneDrive\\Documents\\GitHub\\OSimulate\\src\\cpu_scheduling\\sjf.cpp\"",
+  "file": "C:/Users/Piyush Ingle/OneDrive/Documents/GitHub/OSimulate/src/cpu_scheduling/sjf.cpp",
   "output": "CMakeFiles/OSimulate.dir/src/cpu_scheduling/sjf.cpp.obj"
 },
 {
-  "directory": "C:/Users/sidde/Documents/GitHub/OSimulate/build",
-  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/OSimulate.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\OSimulate.dir\\src\\deadlock_avoidance\\bankers.cpp.obj -c C:\\Users\\sidde\\Documents\\GitHub\\OSimulate\\src\\deadlock_avoidance\\bankers.cpp",
-  "file": "C:/Users/sidde/Documents/GitHub/OSimulate/src/deadlock_avoidance/bankers.cpp",
+  "directory": "C:/Users/Piyush Ingle/OneDrive/Documents/GitHub/OSimulate/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/OSimulate.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\OSimulate.dir\\src\\deadlock_avoidance\\bankers.cpp.obj -c \"C:\\Users\\Piyush Ingle\\OneDrive\\Documents\\GitHub\\OSimulate\\src\\deadlock_avoidance\\bankers.cpp\"",
+  "file": "C:/Users/Piyush Ingle/OneDrive/Documents/GitHub/OSimulate/src/deadlock_avoidance/bankers.cpp",
   "output": "CMakeFiles/OSimulate.dir/src/deadlock_avoidance/bankers.cpp.obj"
 },
 {
-  "directory": "C:/Users/sidde/Documents/GitHub/OSimulate/build",
-  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/OSimulate.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\OSimulate.dir\\src\\disk_scheduling\\fcfs.cpp.obj -c C:\\Users\\sidde\\Documents\\GitHub\\OSimulate\\src\\disk_scheduling\\fcfs.cpp",
-  "file": "C:/Users/sidde/Documents/GitHub/OSimulate/src/disk_scheduling/fcfs.cpp",
+  "directory": "C:/Users/Piyush Ingle/OneDrive/Documents/GitHub/OSimulate/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/OSimulate.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\OSimulate.dir\\src\\disk_scheduling\\fcfs.cpp.obj -c \"C:\\Users\\Piyush Ingle\\OneDrive\\Documents\\GitHub\\OSimulate\\src\\disk_scheduling\\fcfs.cpp\"",
+  "file": "C:/Users/Piyush Ingle/OneDrive/Documents/GitHub/OSimulate/src/disk_scheduling/fcfs.cpp",
   "output": "CMakeFiles/OSimulate.dir/src/disk_scheduling/fcfs.cpp.obj"
 },
 {
-  "directory": "C:/Users/sidde/Documents/GitHub/OSimulate/build",
-  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/OSimulate.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\OSimulate.dir\\src\\disk_scheduling\\look.cpp.obj -c C:\\Users\\sidde\\Documents\\GitHub\\OSimulate\\src\\disk_scheduling\\look.cpp",
-  "file": "C:/Users/sidde/Documents/GitHub/OSimulate/src/disk_scheduling/look.cpp",
+  "directory": "C:/Users/Piyush Ingle/OneDrive/Documents/GitHub/OSimulate/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/OSimulate.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\OSimulate.dir\\src\\disk_scheduling\\look.cpp.obj -c \"C:\\Users\\Piyush Ingle\\OneDrive\\Documents\\GitHub\\OSimulate\\src\\disk_scheduling\\look.cpp\"",
+  "file": "C:/Users/Piyush Ingle/OneDrive/Documents/GitHub/OSimulate/src/disk_scheduling/look.cpp",
   "output": "CMakeFiles/OSimulate.dir/src/disk_scheduling/look.cpp.obj"
 },
 {
-  "directory": "C:/Users/sidde/Documents/GitHub/OSimulate/build",
-  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/OSimulate.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\OSimulate.dir\\src\\disk_scheduling\\scan.cpp.obj -c C:\\Users\\sidde\\Documents\\GitHub\\OSimulate\\src\\disk_scheduling\\scan.cpp",
-  "file": "C:/Users/sidde/Documents/GitHub/OSimulate/src/disk_scheduling/scan.cpp",
+  "directory": "C:/Users/Piyush Ingle/OneDrive/Documents/GitHub/OSimulate/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/OSimulate.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\OSimulate.dir\\src\\disk_scheduling\\scan.cpp.obj -c \"C:\\Users\\Piyush Ingle\\OneDrive\\Documents\\GitHub\\OSimulate\\src\\disk_scheduling\\scan.cpp\"",
+  "file": "C:/Users/Piyush Ingle/OneDrive/Documents/GitHub/OSimulate/src/disk_scheduling/scan.cpp",
   "output": "CMakeFiles/OSimulate.dir/src/disk_scheduling/scan.cpp.obj"
 },
 {
-  "directory": "C:/Users/sidde/Documents/GitHub/OSimulate/build",
-  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/OSimulate.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\OSimulate.dir\\src\\disk_scheduling\\sstf.cpp.obj -c C:\\Users\\sidde\\Documents\\GitHub\\OSimulate\\src\\disk_scheduling\\sstf.cpp",
-  "file": "C:/Users/sidde/Documents/GitHub/OSimulate/src/disk_scheduling/sstf.cpp",
+  "directory": "C:/Users/Piyush Ingle/OneDrive/Documents/GitHub/OSimulate/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/OSimulate.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\OSimulate.dir\\src\\disk_scheduling\\sstf.cpp.obj -c \"C:\\Users\\Piyush Ingle\\OneDrive\\Documents\\GitHub\\OSimulate\\src\\disk_scheduling\\sstf.cpp\"",
+  "file": "C:/Users/Piyush Ingle/OneDrive/Documents/GitHub/OSimulate/src/disk_scheduling/sstf.cpp",
   "output": "CMakeFiles/OSimulate.dir/src/disk_scheduling/sstf.cpp.obj"
 },
 {
-  "directory": "C:/Users/sidde/Documents/GitHub/OSimulate/build",
-  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/OSimulate.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\OSimulate.dir\\src\\main.cpp.obj -c C:\\Users\\sidde\\Documents\\GitHub\\OSimulate\\src\\main.cpp",
-  "file": "C:/Users/sidde/Documents/GitHub/OSimulate/src/main.cpp",
+  "directory": "C:/Users/Piyush Ingle/OneDrive/Documents/GitHub/OSimulate/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/OSimulate.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\OSimulate.dir\\src\\main.cpp.obj -c \"C:\\Users\\Piyush Ingle\\OneDrive\\Documents\\GitHub\\OSimulate\\src\\main.cpp\"",
+  "file": "C:/Users/Piyush Ingle/OneDrive/Documents/GitHub/OSimulate/src/main.cpp",
   "output": "CMakeFiles/OSimulate.dir/src/main.cpp.obj"
 },
 {
-  "directory": "C:/Users/sidde/Documents/GitHub/OSimulate/build",
-  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/OSimulate.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\OSimulate.dir\\src\\memory_management\\lifo.cpp.obj -c C:\\Users\\sidde\\Documents\\GitHub\\OSimulate\\src\\memory_management\\lifo.cpp",
-  "file": "C:/Users/sidde/Documents/GitHub/OSimulate/src/memory_management/lifo.cpp",
+  "directory": "C:/Users/Piyush Ingle/OneDrive/Documents/GitHub/OSimulate/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/OSimulate.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\OSimulate.dir\\src\\memory_management\\lifo.cpp.obj -c \"C:\\Users\\Piyush Ingle\\OneDrive\\Documents\\GitHub\\OSimulate\\src\\memory_management\\lifo.cpp\"",
+  "file": "C:/Users/Piyush Ingle/OneDrive/Documents/GitHub/OSimulate/src/memory_management/lifo.cpp",
   "output": "CMakeFiles/OSimulate.dir/src/memory_management/lifo.cpp.obj"
 },
 {
-  "directory": "C:/Users/sidde/Documents/GitHub/OSimulate/build",
-  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/OSimulate.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\OSimulate.dir\\src\\memory_management\\lru.cpp.obj -c C:\\Users\\sidde\\Documents\\GitHub\\OSimulate\\src\\memory_management\\lru.cpp",
-  "file": "C:/Users/sidde/Documents/GitHub/OSimulate/src/memory_management/lru.cpp",
+  "directory": "C:/Users/Piyush Ingle/OneDrive/Documents/GitHub/OSimulate/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/OSimulate.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\OSimulate.dir\\src\\memory_management\\lru.cpp.obj -c \"C:\\Users\\Piyush Ingle\\OneDrive\\Documents\\GitHub\\OSimulate\\src\\memory_management\\lru.cpp\"",
+  "file": "C:/Users/Piyush Ingle/OneDrive/Documents/GitHub/OSimulate/src/memory_management/lru.cpp",
   "output": "CMakeFiles/OSimulate.dir/src/memory_management/lru.cpp.obj"
 },
 {
-  "directory": "C:/Users/sidde/Documents/GitHub/OSimulate/build",
-  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/OSimulate.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\OSimulate.dir\\src\\memory_management\\paging.cpp.obj -c C:\\Users\\sidde\\Documents\\GitHub\\OSimulate\\src\\memory_management\\paging.cpp",
-  "file": "C:/Users/sidde/Documents/GitHub/OSimulate/src/memory_management/paging.cpp",
+  "directory": "C:/Users/Piyush Ingle/OneDrive/Documents/GitHub/OSimulate/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/OSimulate.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\OSimulate.dir\\src\\memory_management\\paging.cpp.obj -c \"C:\\Users\\Piyush Ingle\\OneDrive\\Documents\\GitHub\\OSimulate\\src\\memory_management\\paging.cpp\"",
+  "file": "C:/Users/Piyush Ingle/OneDrive/Documents/GitHub/OSimulate/src/memory_management/paging.cpp",
   "output": "CMakeFiles/OSimulate.dir/src/memory_management/paging.cpp.obj"
 },
 {
-  "directory": "C:/Users/sidde/Documents/GitHub/OSimulate/build",
-  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/OSimulate.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\OSimulate.dir\\src\\memory_management\\segmentation.cpp.obj -c C:\\Users\\sidde\\Documents\\GitHub\\OSimulate\\src\\memory_management\\segmentation.cpp",
-  "file": "C:/Users/sidde/Documents/GitHub/OSimulate/src/memory_management/segmentation.cpp",
+  "directory": "C:/Users/Piyush Ingle/OneDrive/Documents/GitHub/OSimulate/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/OSimulate.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\OSimulate.dir\\src\\memory_management\\segmentation.cpp.obj -c \"C:\\Users\\Piyush Ingle\\OneDrive\\Documents\\GitHub\\OSimulate\\src\\memory_management\\segmentation.cpp\"",
+  "file": "C:/Users/Piyush Ingle/OneDrive/Documents/GitHub/OSimulate/src/memory_management/segmentation.cpp",
   "output": "CMakeFiles/OSimulate.dir/src/memory_management/segmentation.cpp.obj"
 },
 {
-  "directory": "C:/Users/sidde/Documents/GitHub/OSimulate/build",
-  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/OSimulate.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\OSimulate.dir\\src\\utils.cpp.obj -c C:\\Users\\sidde\\Documents\\GitHub\\OSimulate\\src\\utils.cpp",
-  "file": "C:/Users/sidde/Documents/GitHub/OSimulate/src/utils.cpp",
+  "directory": "C:/Users/Piyush Ingle/OneDrive/Documents/GitHub/OSimulate/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/OSimulate.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\OSimulate.dir\\src\\utils.cpp.obj -c \"C:\\Users\\Piyush Ingle\\OneDrive\\Documents\\GitHub\\OSimulate\\src\\utils.cpp\"",
+  "file": "C:/Users/Piyush Ingle/OneDrive/Documents/GitHub/OSimulate/src/utils.cpp",
   "output": "CMakeFiles/OSimulate.dir/src/utils.cpp.obj"
 }
 ]

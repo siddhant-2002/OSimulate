@@ -1,6 +1,8 @@
 #include <iostream>
 #include <vector>
 #include <unordered_map>
+#include <algorithm> // For std::find
+#include <climits> // For INT_MAX
 
 void lruPageReplacement(const std::vector<int>& pages, int frame_size) {
     std::unordered_map<int, int> indexes;
@@ -16,7 +18,7 @@ void lruPageReplacement(const std::vector<int>& pages, int frame_size) {
             indexes[pages[i]] = i;
         } else {
             if (std::find(frames.begin(), frames.end(), pages[i]) == frames.end()) {
-                int lru = INT_MAX, val;
+                int lru = INT_MAX, val = -1; // Initialize val to a valid value
                 for (int j = 0; j < frames.size(); ++j) {
                     if (indexes[frames[j]] < lru) {
                         lru = indexes[frames[j]];
