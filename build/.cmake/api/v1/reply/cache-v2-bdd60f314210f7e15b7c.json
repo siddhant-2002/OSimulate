@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/sidde/Documents/GitHub/OSimulate/build"
+			"value" : "c:/Users/Piyush Ingle/OneDrive/Documents/GitHub/OSimulate/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -155,10 +155,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "CXX compiler"
+					"value" : "No help, variable specified on the command line."
 				}
 			],
-			"type" : "STRING",
+			"type" : "FILEPATH",
 			"value" : "C:/MinGW/bin/g++.exe"
 		},
 		{
@@ -299,10 +299,10 @@
 				},
 				{
 					"name" : "HELPSTRING",
-					"value" : "C compiler"
+					"value" : "No help, variable specified on the command line."
 				}
 			],
-			"type" : "STRING",
+			"type" : "FILEPATH",
 			"value" : "C:/MinGW/bin/gcc.exe"
 		},
 		{
@@ -563,7 +563,7 @@
 				}
 			],
 			"type" : "BOOL",
-			"value" : "TRUE"
+			"value" : "ON"
 		},
 		{
 			"name" : "CMAKE_EXTRA_GENERATOR",
@@ -587,7 +587,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/sidde/Documents/GitHub/OSimulate/build/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/Piyush Ingle/OneDrive/Documents/GitHub/OSimulate/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -659,7 +659,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/sidde/Documents/GitHub/OSimulate"
+			"value" : "C:/Users/Piyush Ingle/OneDrive/Documents/GitHub/OSimulate"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1139,7 +1139,7 @@
 				}
 			],
 			"type" : "BOOL",
-			"value" : "NO"
+			"value" : "OFF"
 		},
 		{
 			"name" : "CMAKE_SKIP_RPATH",
@@ -1155,7 +1155,7 @@
 				}
 			],
 			"type" : "BOOL",
-			"value" : "NO"
+			"value" : "OFF"
 		},
 		{
 			"name" : "CMAKE_STATIC_LINKER_FLAGS",
@@ -1283,7 +1283,7 @@
 				}
 			],
 			"type" : "BOOL",
-			"value" : "FALSE"
+			"value" : "OFF"
 		},
 		{
 			"name" : "OSimulate_BINARY_DIR",
@@ -1295,7 +1295,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/sidde/Documents/GitHub/OSimulate/build"
+			"value" : "C:/Users/Piyush Ingle/OneDrive/Documents/GitHub/OSimulate/build"
 		},
 		{
 			"name" : "OSimulate_IS_TOP_LEVEL",
@@ -1319,7 +1319,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/sidde/Documents/GitHub/OSimulate"
+			"value" : "C:/Users/Piyush Ingle/OneDrive/Documents/GitHub/OSimulate"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",

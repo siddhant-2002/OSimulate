@@ -1,5 +1,5 @@
-CMakeFiles/OSimulate.dir/src/cpu_scheduling/rr.cpp.obj: \
- C:\Users\Piyush\ Ingle\OneDrive\Documents\GitHub\OSimulate\src\cpu_scheduling\rr.cpp \
+CMakeFiles/OSimulate.dir/src/disk_scheduling/sstf.cpp.obj: \
+ C:\Users\Piyush\ Ingle\OneDrive\Documents\GitHub\OSimulate\src\disk_scheduling\sstf.cpp \
  c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\iostream \
  c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\mingw32\bits\c++config.h \
  c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\mingw32\bits\os_defines.h \
@@ -111,10 +111,15 @@ CMakeFiles/OSimulate.dir/src/cpu_scheduling/rr.cpp.obj: \
  c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_vector.h \
  c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_bvector.h \
  c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\vector.tcc \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\queue \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\deque \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_deque.h \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\deque.tcc \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\algorithm \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\utility \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_relops.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_algo.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\algorithmfwd.h \
  c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_heap.h \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_queue.h \
- c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\uses_allocator.h
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\stl_tempbuf.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\bits\uniform_int_dist.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\limits \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\cmath c:\mingw\include\math.h \
+ c:\mingw\lib\gcc\mingw32\9.2.0\include\c++\climits \
+ c:\mingw\include\limits.h

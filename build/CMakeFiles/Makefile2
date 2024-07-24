@@ -53,10 +53,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\sidde\Documents\GitHub\OSimulate
+CMAKE_SOURCE_DIR = "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\sidde\Documents\GitHub\OSimulate\build
+CMAKE_BINARY_DIR = "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\build"
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -80,14 +80,14 @@ clean: CMakeFiles/OSimulate.dir/clean
 CMakeFiles/OSimulate.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSimulate.dir\build.make CMakeFiles/OSimulate.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\OSimulate.dir\build.make CMakeFiles/OSimulate.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\sidde\Documents\GitHub\OSimulate\build\CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16 "Built target OSimulate"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\build\CMakeFiles" --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16 "Built target OSimulate"
 .PHONY : CMakeFiles/OSimulate.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/OSimulate.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\sidde\Documents\GitHub\OSimulate\build\CMakeFiles 16
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\build\CMakeFiles" 16
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/OSimulate.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\sidde\Documents\GitHub\OSimulate\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\build\CMakeFiles" 0
 .PHONY : CMakeFiles/OSimulate.dir/rule
 
 # Convenience name for target.

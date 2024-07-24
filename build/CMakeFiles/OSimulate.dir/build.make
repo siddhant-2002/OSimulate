@@ -52,10 +52,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\sidde\Documents\GitHub\OSimulate
+CMAKE_SOURCE_DIR = "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\sidde\Documents\GitHub\OSimulate\build
+CMAKE_BINARY_DIR = "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\build"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/OSimulate.dir/depend.make
@@ -70,228 +70,228 @@ include CMakeFiles/OSimulate.dir/flags.make
 
 CMakeFiles/OSimulate.dir/src/cpu_scheduling/fcfs.cpp.obj: CMakeFiles/OSimulate.dir/flags.make
 CMakeFiles/OSimulate.dir/src/cpu_scheduling/fcfs.cpp.obj: CMakeFiles/OSimulate.dir/includes_CXX.rsp
-CMakeFiles/OSimulate.dir/src/cpu_scheduling/fcfs.cpp.obj: C:/Users/sidde/Documents/GitHub/OSimulate/src/cpu_scheduling/fcfs.cpp
+CMakeFiles/OSimulate.dir/src/cpu_scheduling/fcfs.cpp.obj: C:/Users/Piyush\ Ingle/OneDrive/Documents/GitHub/OSimulate/src/cpu_scheduling/fcfs.cpp
 CMakeFiles/OSimulate.dir/src/cpu_scheduling/fcfs.cpp.obj: CMakeFiles/OSimulate.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\sidde\Documents\GitHub\OSimulate\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/OSimulate.dir/src/cpu_scheduling/fcfs.cpp.obj"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OSimulate.dir/src/cpu_scheduling/fcfs.cpp.obj -MF CMakeFiles\OSimulate.dir\src\cpu_scheduling\fcfs.cpp.obj.d -o CMakeFiles\OSimulate.dir\src\cpu_scheduling\fcfs.cpp.obj -c C:\Users\sidde\Documents\GitHub\OSimulate\src\cpu_scheduling\fcfs.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/OSimulate.dir/src/cpu_scheduling/fcfs.cpp.obj"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OSimulate.dir/src/cpu_scheduling/fcfs.cpp.obj -MF CMakeFiles\OSimulate.dir\src\cpu_scheduling\fcfs.cpp.obj.d -o CMakeFiles\OSimulate.dir\src\cpu_scheduling\fcfs.cpp.obj -c "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\cpu_scheduling\fcfs.cpp"
 
 CMakeFiles/OSimulate.dir/src/cpu_scheduling/fcfs.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/OSimulate.dir/src/cpu_scheduling/fcfs.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\sidde\Documents\GitHub\OSimulate\src\cpu_scheduling\fcfs.cpp > CMakeFiles\OSimulate.dir\src\cpu_scheduling\fcfs.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\cpu_scheduling\fcfs.cpp" > CMakeFiles\OSimulate.dir\src\cpu_scheduling\fcfs.cpp.i
 
 CMakeFiles/OSimulate.dir/src/cpu_scheduling/fcfs.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/OSimulate.dir/src/cpu_scheduling/fcfs.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\sidde\Documents\GitHub\OSimulate\src\cpu_scheduling\fcfs.cpp -o CMakeFiles\OSimulate.dir\src\cpu_scheduling\fcfs.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\cpu_scheduling\fcfs.cpp" -o CMakeFiles\OSimulate.dir\src\cpu_scheduling\fcfs.cpp.s
 
 CMakeFiles/OSimulate.dir/src/cpu_scheduling/proirity.cpp.obj: CMakeFiles/OSimulate.dir/flags.make
 CMakeFiles/OSimulate.dir/src/cpu_scheduling/proirity.cpp.obj: CMakeFiles/OSimulate.dir/includes_CXX.rsp
-CMakeFiles/OSimulate.dir/src/cpu_scheduling/proirity.cpp.obj: C:/Users/sidde/Documents/GitHub/OSimulate/src/cpu_scheduling/proirity.cpp
+CMakeFiles/OSimulate.dir/src/cpu_scheduling/proirity.cpp.obj: C:/Users/Piyush\ Ingle/OneDrive/Documents/GitHub/OSimulate/src/cpu_scheduling/proirity.cpp
 CMakeFiles/OSimulate.dir/src/cpu_scheduling/proirity.cpp.obj: CMakeFiles/OSimulate.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\sidde\Documents\GitHub\OSimulate\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/OSimulate.dir/src/cpu_scheduling/proirity.cpp.obj"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OSimulate.dir/src/cpu_scheduling/proirity.cpp.obj -MF CMakeFiles\OSimulate.dir\src\cpu_scheduling\proirity.cpp.obj.d -o CMakeFiles\OSimulate.dir\src\cpu_scheduling\proirity.cpp.obj -c C:\Users\sidde\Documents\GitHub\OSimulate\src\cpu_scheduling\proirity.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/OSimulate.dir/src/cpu_scheduling/proirity.cpp.obj"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OSimulate.dir/src/cpu_scheduling/proirity.cpp.obj -MF CMakeFiles\OSimulate.dir\src\cpu_scheduling\proirity.cpp.obj.d -o CMakeFiles\OSimulate.dir\src\cpu_scheduling\proirity.cpp.obj -c "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\cpu_scheduling\proirity.cpp"
 
 CMakeFiles/OSimulate.dir/src/cpu_scheduling/proirity.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/OSimulate.dir/src/cpu_scheduling/proirity.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\sidde\Documents\GitHub\OSimulate\src\cpu_scheduling\proirity.cpp > CMakeFiles\OSimulate.dir\src\cpu_scheduling\proirity.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\cpu_scheduling\proirity.cpp" > CMakeFiles\OSimulate.dir\src\cpu_scheduling\proirity.cpp.i
 
 CMakeFiles/OSimulate.dir/src/cpu_scheduling/proirity.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/OSimulate.dir/src/cpu_scheduling/proirity.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\sidde\Documents\GitHub\OSimulate\src\cpu_scheduling\proirity.cpp -o CMakeFiles\OSimulate.dir\src\cpu_scheduling\proirity.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\cpu_scheduling\proirity.cpp" -o CMakeFiles\OSimulate.dir\src\cpu_scheduling\proirity.cpp.s
 
 CMakeFiles/OSimulate.dir/src/cpu_scheduling/rr.cpp.obj: CMakeFiles/OSimulate.dir/flags.make
 CMakeFiles/OSimulate.dir/src/cpu_scheduling/rr.cpp.obj: CMakeFiles/OSimulate.dir/includes_CXX.rsp
-CMakeFiles/OSimulate.dir/src/cpu_scheduling/rr.cpp.obj: C:/Users/sidde/Documents/GitHub/OSimulate/src/cpu_scheduling/rr.cpp
+CMakeFiles/OSimulate.dir/src/cpu_scheduling/rr.cpp.obj: C:/Users/Piyush\ Ingle/OneDrive/Documents/GitHub/OSimulate/src/cpu_scheduling/rr.cpp
 CMakeFiles/OSimulate.dir/src/cpu_scheduling/rr.cpp.obj: CMakeFiles/OSimulate.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\sidde\Documents\GitHub\OSimulate\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/OSimulate.dir/src/cpu_scheduling/rr.cpp.obj"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OSimulate.dir/src/cpu_scheduling/rr.cpp.obj -MF CMakeFiles\OSimulate.dir\src\cpu_scheduling\rr.cpp.obj.d -o CMakeFiles\OSimulate.dir\src\cpu_scheduling\rr.cpp.obj -c C:\Users\sidde\Documents\GitHub\OSimulate\src\cpu_scheduling\rr.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/OSimulate.dir/src/cpu_scheduling/rr.cpp.obj"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OSimulate.dir/src/cpu_scheduling/rr.cpp.obj -MF CMakeFiles\OSimulate.dir\src\cpu_scheduling\rr.cpp.obj.d -o CMakeFiles\OSimulate.dir\src\cpu_scheduling\rr.cpp.obj -c "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\cpu_scheduling\rr.cpp"
 
 CMakeFiles/OSimulate.dir/src/cpu_scheduling/rr.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/OSimulate.dir/src/cpu_scheduling/rr.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\sidde\Documents\GitHub\OSimulate\src\cpu_scheduling\rr.cpp > CMakeFiles\OSimulate.dir\src\cpu_scheduling\rr.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\cpu_scheduling\rr.cpp" > CMakeFiles\OSimulate.dir\src\cpu_scheduling\rr.cpp.i
 
 CMakeFiles/OSimulate.dir/src/cpu_scheduling/rr.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/OSimulate.dir/src/cpu_scheduling/rr.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\sidde\Documents\GitHub\OSimulate\src\cpu_scheduling\rr.cpp -o CMakeFiles\OSimulate.dir\src\cpu_scheduling\rr.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\cpu_scheduling\rr.cpp" -o CMakeFiles\OSimulate.dir\src\cpu_scheduling\rr.cpp.s
 
 CMakeFiles/OSimulate.dir/src/cpu_scheduling/sjf.cpp.obj: CMakeFiles/OSimulate.dir/flags.make
 CMakeFiles/OSimulate.dir/src/cpu_scheduling/sjf.cpp.obj: CMakeFiles/OSimulate.dir/includes_CXX.rsp
-CMakeFiles/OSimulate.dir/src/cpu_scheduling/sjf.cpp.obj: C:/Users/sidde/Documents/GitHub/OSimulate/src/cpu_scheduling/sjf.cpp
+CMakeFiles/OSimulate.dir/src/cpu_scheduling/sjf.cpp.obj: C:/Users/Piyush\ Ingle/OneDrive/Documents/GitHub/OSimulate/src/cpu_scheduling/sjf.cpp
 CMakeFiles/OSimulate.dir/src/cpu_scheduling/sjf.cpp.obj: CMakeFiles/OSimulate.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\sidde\Documents\GitHub\OSimulate\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/OSimulate.dir/src/cpu_scheduling/sjf.cpp.obj"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OSimulate.dir/src/cpu_scheduling/sjf.cpp.obj -MF CMakeFiles\OSimulate.dir\src\cpu_scheduling\sjf.cpp.obj.d -o CMakeFiles\OSimulate.dir\src\cpu_scheduling\sjf.cpp.obj -c C:\Users\sidde\Documents\GitHub\OSimulate\src\cpu_scheduling\sjf.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/OSimulate.dir/src/cpu_scheduling/sjf.cpp.obj"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OSimulate.dir/src/cpu_scheduling/sjf.cpp.obj -MF CMakeFiles\OSimulate.dir\src\cpu_scheduling\sjf.cpp.obj.d -o CMakeFiles\OSimulate.dir\src\cpu_scheduling\sjf.cpp.obj -c "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\cpu_scheduling\sjf.cpp"
 
 CMakeFiles/OSimulate.dir/src/cpu_scheduling/sjf.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/OSimulate.dir/src/cpu_scheduling/sjf.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\sidde\Documents\GitHub\OSimulate\src\cpu_scheduling\sjf.cpp > CMakeFiles\OSimulate.dir\src\cpu_scheduling\sjf.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\cpu_scheduling\sjf.cpp" > CMakeFiles\OSimulate.dir\src\cpu_scheduling\sjf.cpp.i
 
 CMakeFiles/OSimulate.dir/src/cpu_scheduling/sjf.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/OSimulate.dir/src/cpu_scheduling/sjf.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\sidde\Documents\GitHub\OSimulate\src\cpu_scheduling\sjf.cpp -o CMakeFiles\OSimulate.dir\src\cpu_scheduling\sjf.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\cpu_scheduling\sjf.cpp" -o CMakeFiles\OSimulate.dir\src\cpu_scheduling\sjf.cpp.s
 
 CMakeFiles/OSimulate.dir/src/deadlock_avoidance/bankers.cpp.obj: CMakeFiles/OSimulate.dir/flags.make
 CMakeFiles/OSimulate.dir/src/deadlock_avoidance/bankers.cpp.obj: CMakeFiles/OSimulate.dir/includes_CXX.rsp
-CMakeFiles/OSimulate.dir/src/deadlock_avoidance/bankers.cpp.obj: C:/Users/sidde/Documents/GitHub/OSimulate/src/deadlock_avoidance/bankers.cpp
+CMakeFiles/OSimulate.dir/src/deadlock_avoidance/bankers.cpp.obj: C:/Users/Piyush\ Ingle/OneDrive/Documents/GitHub/OSimulate/src/deadlock_avoidance/bankers.cpp
 CMakeFiles/OSimulate.dir/src/deadlock_avoidance/bankers.cpp.obj: CMakeFiles/OSimulate.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\sidde\Documents\GitHub\OSimulate\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/OSimulate.dir/src/deadlock_avoidance/bankers.cpp.obj"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OSimulate.dir/src/deadlock_avoidance/bankers.cpp.obj -MF CMakeFiles\OSimulate.dir\src\deadlock_avoidance\bankers.cpp.obj.d -o CMakeFiles\OSimulate.dir\src\deadlock_avoidance\bankers.cpp.obj -c C:\Users\sidde\Documents\GitHub\OSimulate\src\deadlock_avoidance\bankers.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/OSimulate.dir/src/deadlock_avoidance/bankers.cpp.obj"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OSimulate.dir/src/deadlock_avoidance/bankers.cpp.obj -MF CMakeFiles\OSimulate.dir\src\deadlock_avoidance\bankers.cpp.obj.d -o CMakeFiles\OSimulate.dir\src\deadlock_avoidance\bankers.cpp.obj -c "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\deadlock_avoidance\bankers.cpp"
 
 CMakeFiles/OSimulate.dir/src/deadlock_avoidance/bankers.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/OSimulate.dir/src/deadlock_avoidance/bankers.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\sidde\Documents\GitHub\OSimulate\src\deadlock_avoidance\bankers.cpp > CMakeFiles\OSimulate.dir\src\deadlock_avoidance\bankers.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\deadlock_avoidance\bankers.cpp" > CMakeFiles\OSimulate.dir\src\deadlock_avoidance\bankers.cpp.i
 
 CMakeFiles/OSimulate.dir/src/deadlock_avoidance/bankers.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/OSimulate.dir/src/deadlock_avoidance/bankers.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\sidde\Documents\GitHub\OSimulate\src\deadlock_avoidance\bankers.cpp -o CMakeFiles\OSimulate.dir\src\deadlock_avoidance\bankers.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\deadlock_avoidance\bankers.cpp" -o CMakeFiles\OSimulate.dir\src\deadlock_avoidance\bankers.cpp.s
 
 CMakeFiles/OSimulate.dir/src/disk_scheduling/fcfs.cpp.obj: CMakeFiles/OSimulate.dir/flags.make
 CMakeFiles/OSimulate.dir/src/disk_scheduling/fcfs.cpp.obj: CMakeFiles/OSimulate.dir/includes_CXX.rsp
-CMakeFiles/OSimulate.dir/src/disk_scheduling/fcfs.cpp.obj: C:/Users/sidde/Documents/GitHub/OSimulate/src/disk_scheduling/fcfs.cpp
+CMakeFiles/OSimulate.dir/src/disk_scheduling/fcfs.cpp.obj: C:/Users/Piyush\ Ingle/OneDrive/Documents/GitHub/OSimulate/src/disk_scheduling/fcfs.cpp
 CMakeFiles/OSimulate.dir/src/disk_scheduling/fcfs.cpp.obj: CMakeFiles/OSimulate.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\sidde\Documents\GitHub\OSimulate\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/OSimulate.dir/src/disk_scheduling/fcfs.cpp.obj"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OSimulate.dir/src/disk_scheduling/fcfs.cpp.obj -MF CMakeFiles\OSimulate.dir\src\disk_scheduling\fcfs.cpp.obj.d -o CMakeFiles\OSimulate.dir\src\disk_scheduling\fcfs.cpp.obj -c C:\Users\sidde\Documents\GitHub\OSimulate\src\disk_scheduling\fcfs.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/OSimulate.dir/src/disk_scheduling/fcfs.cpp.obj"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OSimulate.dir/src/disk_scheduling/fcfs.cpp.obj -MF CMakeFiles\OSimulate.dir\src\disk_scheduling\fcfs.cpp.obj.d -o CMakeFiles\OSimulate.dir\src\disk_scheduling\fcfs.cpp.obj -c "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\disk_scheduling\fcfs.cpp"
 
 CMakeFiles/OSimulate.dir/src/disk_scheduling/fcfs.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/OSimulate.dir/src/disk_scheduling/fcfs.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\sidde\Documents\GitHub\OSimulate\src\disk_scheduling\fcfs.cpp > CMakeFiles\OSimulate.dir\src\disk_scheduling\fcfs.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\disk_scheduling\fcfs.cpp" > CMakeFiles\OSimulate.dir\src\disk_scheduling\fcfs.cpp.i
 
 CMakeFiles/OSimulate.dir/src/disk_scheduling/fcfs.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/OSimulate.dir/src/disk_scheduling/fcfs.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\sidde\Documents\GitHub\OSimulate\src\disk_scheduling\fcfs.cpp -o CMakeFiles\OSimulate.dir\src\disk_scheduling\fcfs.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\disk_scheduling\fcfs.cpp" -o CMakeFiles\OSimulate.dir\src\disk_scheduling\fcfs.cpp.s
 
 CMakeFiles/OSimulate.dir/src/disk_scheduling/look.cpp.obj: CMakeFiles/OSimulate.dir/flags.make
 CMakeFiles/OSimulate.dir/src/disk_scheduling/look.cpp.obj: CMakeFiles/OSimulate.dir/includes_CXX.rsp
-CMakeFiles/OSimulate.dir/src/disk_scheduling/look.cpp.obj: C:/Users/sidde/Documents/GitHub/OSimulate/src/disk_scheduling/look.cpp
+CMakeFiles/OSimulate.dir/src/disk_scheduling/look.cpp.obj: C:/Users/Piyush\ Ingle/OneDrive/Documents/GitHub/OSimulate/src/disk_scheduling/look.cpp
 CMakeFiles/OSimulate.dir/src/disk_scheduling/look.cpp.obj: CMakeFiles/OSimulate.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\sidde\Documents\GitHub\OSimulate\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/OSimulate.dir/src/disk_scheduling/look.cpp.obj"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OSimulate.dir/src/disk_scheduling/look.cpp.obj -MF CMakeFiles\OSimulate.dir\src\disk_scheduling\look.cpp.obj.d -o CMakeFiles\OSimulate.dir\src\disk_scheduling\look.cpp.obj -c C:\Users\sidde\Documents\GitHub\OSimulate\src\disk_scheduling\look.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/OSimulate.dir/src/disk_scheduling/look.cpp.obj"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OSimulate.dir/src/disk_scheduling/look.cpp.obj -MF CMakeFiles\OSimulate.dir\src\disk_scheduling\look.cpp.obj.d -o CMakeFiles\OSimulate.dir\src\disk_scheduling\look.cpp.obj -c "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\disk_scheduling\look.cpp"
 
 CMakeFiles/OSimulate.dir/src/disk_scheduling/look.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/OSimulate.dir/src/disk_scheduling/look.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\sidde\Documents\GitHub\OSimulate\src\disk_scheduling\look.cpp > CMakeFiles\OSimulate.dir\src\disk_scheduling\look.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\disk_scheduling\look.cpp" > CMakeFiles\OSimulate.dir\src\disk_scheduling\look.cpp.i
 
 CMakeFiles/OSimulate.dir/src/disk_scheduling/look.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/OSimulate.dir/src/disk_scheduling/look.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\sidde\Documents\GitHub\OSimulate\src\disk_scheduling\look.cpp -o CMakeFiles\OSimulate.dir\src\disk_scheduling\look.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\disk_scheduling\look.cpp" -o CMakeFiles\OSimulate.dir\src\disk_scheduling\look.cpp.s
 
 CMakeFiles/OSimulate.dir/src/disk_scheduling/scan.cpp.obj: CMakeFiles/OSimulate.dir/flags.make
 CMakeFiles/OSimulate.dir/src/disk_scheduling/scan.cpp.obj: CMakeFiles/OSimulate.dir/includes_CXX.rsp
-CMakeFiles/OSimulate.dir/src/disk_scheduling/scan.cpp.obj: C:/Users/sidde/Documents/GitHub/OSimulate/src/disk_scheduling/scan.cpp
+CMakeFiles/OSimulate.dir/src/disk_scheduling/scan.cpp.obj: C:/Users/Piyush\ Ingle/OneDrive/Documents/GitHub/OSimulate/src/disk_scheduling/scan.cpp
 CMakeFiles/OSimulate.dir/src/disk_scheduling/scan.cpp.obj: CMakeFiles/OSimulate.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\sidde\Documents\GitHub\OSimulate\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/OSimulate.dir/src/disk_scheduling/scan.cpp.obj"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OSimulate.dir/src/disk_scheduling/scan.cpp.obj -MF CMakeFiles\OSimulate.dir\src\disk_scheduling\scan.cpp.obj.d -o CMakeFiles\OSimulate.dir\src\disk_scheduling\scan.cpp.obj -c C:\Users\sidde\Documents\GitHub\OSimulate\src\disk_scheduling\scan.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/OSimulate.dir/src/disk_scheduling/scan.cpp.obj"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OSimulate.dir/src/disk_scheduling/scan.cpp.obj -MF CMakeFiles\OSimulate.dir\src\disk_scheduling\scan.cpp.obj.d -o CMakeFiles\OSimulate.dir\src\disk_scheduling\scan.cpp.obj -c "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\disk_scheduling\scan.cpp"
 
 CMakeFiles/OSimulate.dir/src/disk_scheduling/scan.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/OSimulate.dir/src/disk_scheduling/scan.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\sidde\Documents\GitHub\OSimulate\src\disk_scheduling\scan.cpp > CMakeFiles\OSimulate.dir\src\disk_scheduling\scan.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\disk_scheduling\scan.cpp" > CMakeFiles\OSimulate.dir\src\disk_scheduling\scan.cpp.i
 
 CMakeFiles/OSimulate.dir/src/disk_scheduling/scan.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/OSimulate.dir/src/disk_scheduling/scan.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\sidde\Documents\GitHub\OSimulate\src\disk_scheduling\scan.cpp -o CMakeFiles\OSimulate.dir\src\disk_scheduling\scan.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\disk_scheduling\scan.cpp" -o CMakeFiles\OSimulate.dir\src\disk_scheduling\scan.cpp.s
 
 CMakeFiles/OSimulate.dir/src/disk_scheduling/sstf.cpp.obj: CMakeFiles/OSimulate.dir/flags.make
 CMakeFiles/OSimulate.dir/src/disk_scheduling/sstf.cpp.obj: CMakeFiles/OSimulate.dir/includes_CXX.rsp
-CMakeFiles/OSimulate.dir/src/disk_scheduling/sstf.cpp.obj: C:/Users/sidde/Documents/GitHub/OSimulate/src/disk_scheduling/sstf.cpp
+CMakeFiles/OSimulate.dir/src/disk_scheduling/sstf.cpp.obj: C:/Users/Piyush\ Ingle/OneDrive/Documents/GitHub/OSimulate/src/disk_scheduling/sstf.cpp
 CMakeFiles/OSimulate.dir/src/disk_scheduling/sstf.cpp.obj: CMakeFiles/OSimulate.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\sidde\Documents\GitHub\OSimulate\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/OSimulate.dir/src/disk_scheduling/sstf.cpp.obj"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OSimulate.dir/src/disk_scheduling/sstf.cpp.obj -MF CMakeFiles\OSimulate.dir\src\disk_scheduling\sstf.cpp.obj.d -o CMakeFiles\OSimulate.dir\src\disk_scheduling\sstf.cpp.obj -c C:\Users\sidde\Documents\GitHub\OSimulate\src\disk_scheduling\sstf.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/OSimulate.dir/src/disk_scheduling/sstf.cpp.obj"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OSimulate.dir/src/disk_scheduling/sstf.cpp.obj -MF CMakeFiles\OSimulate.dir\src\disk_scheduling\sstf.cpp.obj.d -o CMakeFiles\OSimulate.dir\src\disk_scheduling\sstf.cpp.obj -c "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\disk_scheduling\sstf.cpp"
 
 CMakeFiles/OSimulate.dir/src/disk_scheduling/sstf.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/OSimulate.dir/src/disk_scheduling/sstf.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\sidde\Documents\GitHub\OSimulate\src\disk_scheduling\sstf.cpp > CMakeFiles\OSimulate.dir\src\disk_scheduling\sstf.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\disk_scheduling\sstf.cpp" > CMakeFiles\OSimulate.dir\src\disk_scheduling\sstf.cpp.i
 
 CMakeFiles/OSimulate.dir/src/disk_scheduling/sstf.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/OSimulate.dir/src/disk_scheduling/sstf.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\sidde\Documents\GitHub\OSimulate\src\disk_scheduling\sstf.cpp -o CMakeFiles\OSimulate.dir\src\disk_scheduling\sstf.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\disk_scheduling\sstf.cpp" -o CMakeFiles\OSimulate.dir\src\disk_scheduling\sstf.cpp.s
 
 CMakeFiles/OSimulate.dir/src/main.cpp.obj: CMakeFiles/OSimulate.dir/flags.make
 CMakeFiles/OSimulate.dir/src/main.cpp.obj: CMakeFiles/OSimulate.dir/includes_CXX.rsp
-CMakeFiles/OSimulate.dir/src/main.cpp.obj: C:/Users/sidde/Documents/GitHub/OSimulate/src/main.cpp
+CMakeFiles/OSimulate.dir/src/main.cpp.obj: C:/Users/Piyush\ Ingle/OneDrive/Documents/GitHub/OSimulate/src/main.cpp
 CMakeFiles/OSimulate.dir/src/main.cpp.obj: CMakeFiles/OSimulate.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\sidde\Documents\GitHub\OSimulate\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/OSimulate.dir/src/main.cpp.obj"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OSimulate.dir/src/main.cpp.obj -MF CMakeFiles\OSimulate.dir\src\main.cpp.obj.d -o CMakeFiles\OSimulate.dir\src\main.cpp.obj -c C:\Users\sidde\Documents\GitHub\OSimulate\src\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/OSimulate.dir/src/main.cpp.obj"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OSimulate.dir/src/main.cpp.obj -MF CMakeFiles\OSimulate.dir\src\main.cpp.obj.d -o CMakeFiles\OSimulate.dir\src\main.cpp.obj -c "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\main.cpp"
 
 CMakeFiles/OSimulate.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/OSimulate.dir/src/main.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\sidde\Documents\GitHub\OSimulate\src\main.cpp > CMakeFiles\OSimulate.dir\src\main.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\main.cpp" > CMakeFiles\OSimulate.dir\src\main.cpp.i
 
 CMakeFiles/OSimulate.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/OSimulate.dir/src/main.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\sidde\Documents\GitHub\OSimulate\src\main.cpp -o CMakeFiles\OSimulate.dir\src\main.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\main.cpp" -o CMakeFiles\OSimulate.dir\src\main.cpp.s
 
 CMakeFiles/OSimulate.dir/src/memory_management/lifo.cpp.obj: CMakeFiles/OSimulate.dir/flags.make
 CMakeFiles/OSimulate.dir/src/memory_management/lifo.cpp.obj: CMakeFiles/OSimulate.dir/includes_CXX.rsp
-CMakeFiles/OSimulate.dir/src/memory_management/lifo.cpp.obj: C:/Users/sidde/Documents/GitHub/OSimulate/src/memory_management/lifo.cpp
+CMakeFiles/OSimulate.dir/src/memory_management/lifo.cpp.obj: C:/Users/Piyush\ Ingle/OneDrive/Documents/GitHub/OSimulate/src/memory_management/lifo.cpp
 CMakeFiles/OSimulate.dir/src/memory_management/lifo.cpp.obj: CMakeFiles/OSimulate.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\sidde\Documents\GitHub\OSimulate\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/OSimulate.dir/src/memory_management/lifo.cpp.obj"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OSimulate.dir/src/memory_management/lifo.cpp.obj -MF CMakeFiles\OSimulate.dir\src\memory_management\lifo.cpp.obj.d -o CMakeFiles\OSimulate.dir\src\memory_management\lifo.cpp.obj -c C:\Users\sidde\Documents\GitHub\OSimulate\src\memory_management\lifo.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/OSimulate.dir/src/memory_management/lifo.cpp.obj"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OSimulate.dir/src/memory_management/lifo.cpp.obj -MF CMakeFiles\OSimulate.dir\src\memory_management\lifo.cpp.obj.d -o CMakeFiles\OSimulate.dir\src\memory_management\lifo.cpp.obj -c "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\memory_management\lifo.cpp"
 
 CMakeFiles/OSimulate.dir/src/memory_management/lifo.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/OSimulate.dir/src/memory_management/lifo.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\sidde\Documents\GitHub\OSimulate\src\memory_management\lifo.cpp > CMakeFiles\OSimulate.dir\src\memory_management\lifo.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\memory_management\lifo.cpp" > CMakeFiles\OSimulate.dir\src\memory_management\lifo.cpp.i
 
 CMakeFiles/OSimulate.dir/src/memory_management/lifo.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/OSimulate.dir/src/memory_management/lifo.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\sidde\Documents\GitHub\OSimulate\src\memory_management\lifo.cpp -o CMakeFiles\OSimulate.dir\src\memory_management\lifo.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\memory_management\lifo.cpp" -o CMakeFiles\OSimulate.dir\src\memory_management\lifo.cpp.s
 
 CMakeFiles/OSimulate.dir/src/memory_management/lru.cpp.obj: CMakeFiles/OSimulate.dir/flags.make
 CMakeFiles/OSimulate.dir/src/memory_management/lru.cpp.obj: CMakeFiles/OSimulate.dir/includes_CXX.rsp
-CMakeFiles/OSimulate.dir/src/memory_management/lru.cpp.obj: C:/Users/sidde/Documents/GitHub/OSimulate/src/memory_management/lru.cpp
+CMakeFiles/OSimulate.dir/src/memory_management/lru.cpp.obj: C:/Users/Piyush\ Ingle/OneDrive/Documents/GitHub/OSimulate/src/memory_management/lru.cpp
 CMakeFiles/OSimulate.dir/src/memory_management/lru.cpp.obj: CMakeFiles/OSimulate.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\sidde\Documents\GitHub\OSimulate\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/OSimulate.dir/src/memory_management/lru.cpp.obj"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OSimulate.dir/src/memory_management/lru.cpp.obj -MF CMakeFiles\OSimulate.dir\src\memory_management\lru.cpp.obj.d -o CMakeFiles\OSimulate.dir\src\memory_management\lru.cpp.obj -c C:\Users\sidde\Documents\GitHub\OSimulate\src\memory_management\lru.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/OSimulate.dir/src/memory_management/lru.cpp.obj"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OSimulate.dir/src/memory_management/lru.cpp.obj -MF CMakeFiles\OSimulate.dir\src\memory_management\lru.cpp.obj.d -o CMakeFiles\OSimulate.dir\src\memory_management\lru.cpp.obj -c "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\memory_management\lru.cpp"
 
 CMakeFiles/OSimulate.dir/src/memory_management/lru.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/OSimulate.dir/src/memory_management/lru.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\sidde\Documents\GitHub\OSimulate\src\memory_management\lru.cpp > CMakeFiles\OSimulate.dir\src\memory_management\lru.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\memory_management\lru.cpp" > CMakeFiles\OSimulate.dir\src\memory_management\lru.cpp.i
 
 CMakeFiles/OSimulate.dir/src/memory_management/lru.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/OSimulate.dir/src/memory_management/lru.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\sidde\Documents\GitHub\OSimulate\src\memory_management\lru.cpp -o CMakeFiles\OSimulate.dir\src\memory_management\lru.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\memory_management\lru.cpp" -o CMakeFiles\OSimulate.dir\src\memory_management\lru.cpp.s
 
 CMakeFiles/OSimulate.dir/src/memory_management/paging.cpp.obj: CMakeFiles/OSimulate.dir/flags.make
 CMakeFiles/OSimulate.dir/src/memory_management/paging.cpp.obj: CMakeFiles/OSimulate.dir/includes_CXX.rsp
-CMakeFiles/OSimulate.dir/src/memory_management/paging.cpp.obj: C:/Users/sidde/Documents/GitHub/OSimulate/src/memory_management/paging.cpp
+CMakeFiles/OSimulate.dir/src/memory_management/paging.cpp.obj: C:/Users/Piyush\ Ingle/OneDrive/Documents/GitHub/OSimulate/src/memory_management/paging.cpp
 CMakeFiles/OSimulate.dir/src/memory_management/paging.cpp.obj: CMakeFiles/OSimulate.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\sidde\Documents\GitHub\OSimulate\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/OSimulate.dir/src/memory_management/paging.cpp.obj"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OSimulate.dir/src/memory_management/paging.cpp.obj -MF CMakeFiles\OSimulate.dir\src\memory_management\paging.cpp.obj.d -o CMakeFiles\OSimulate.dir\src\memory_management\paging.cpp.obj -c C:\Users\sidde\Documents\GitHub\OSimulate\src\memory_management\paging.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/OSimulate.dir/src/memory_management/paging.cpp.obj"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OSimulate.dir/src/memory_management/paging.cpp.obj -MF CMakeFiles\OSimulate.dir\src\memory_management\paging.cpp.obj.d -o CMakeFiles\OSimulate.dir\src\memory_management\paging.cpp.obj -c "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\memory_management\paging.cpp"
 
 CMakeFiles/OSimulate.dir/src/memory_management/paging.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/OSimulate.dir/src/memory_management/paging.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\sidde\Documents\GitHub\OSimulate\src\memory_management\paging.cpp > CMakeFiles\OSimulate.dir\src\memory_management\paging.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\memory_management\paging.cpp" > CMakeFiles\OSimulate.dir\src\memory_management\paging.cpp.i
 
 CMakeFiles/OSimulate.dir/src/memory_management/paging.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/OSimulate.dir/src/memory_management/paging.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\sidde\Documents\GitHub\OSimulate\src\memory_management\paging.cpp -o CMakeFiles\OSimulate.dir\src\memory_management\paging.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\memory_management\paging.cpp" -o CMakeFiles\OSimulate.dir\src\memory_management\paging.cpp.s
 
 CMakeFiles/OSimulate.dir/src/memory_management/segmentation.cpp.obj: CMakeFiles/OSimulate.dir/flags.make
 CMakeFiles/OSimulate.dir/src/memory_management/segmentation.cpp.obj: CMakeFiles/OSimulate.dir/includes_CXX.rsp
-CMakeFiles/OSimulate.dir/src/memory_management/segmentation.cpp.obj: C:/Users/sidde/Documents/GitHub/OSimulate/src/memory_management/segmentation.cpp
+CMakeFiles/OSimulate.dir/src/memory_management/segmentation.cpp.obj: C:/Users/Piyush\ Ingle/OneDrive/Documents/GitHub/OSimulate/src/memory_management/segmentation.cpp
 CMakeFiles/OSimulate.dir/src/memory_management/segmentation.cpp.obj: CMakeFiles/OSimulate.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\sidde\Documents\GitHub\OSimulate\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/OSimulate.dir/src/memory_management/segmentation.cpp.obj"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OSimulate.dir/src/memory_management/segmentation.cpp.obj -MF CMakeFiles\OSimulate.dir\src\memory_management\segmentation.cpp.obj.d -o CMakeFiles\OSimulate.dir\src\memory_management\segmentation.cpp.obj -c C:\Users\sidde\Documents\GitHub\OSimulate\src\memory_management\segmentation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/OSimulate.dir/src/memory_management/segmentation.cpp.obj"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OSimulate.dir/src/memory_management/segmentation.cpp.obj -MF CMakeFiles\OSimulate.dir\src\memory_management\segmentation.cpp.obj.d -o CMakeFiles\OSimulate.dir\src\memory_management\segmentation.cpp.obj -c "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\memory_management\segmentation.cpp"
 
 CMakeFiles/OSimulate.dir/src/memory_management/segmentation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/OSimulate.dir/src/memory_management/segmentation.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\sidde\Documents\GitHub\OSimulate\src\memory_management\segmentation.cpp > CMakeFiles\OSimulate.dir\src\memory_management\segmentation.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\memory_management\segmentation.cpp" > CMakeFiles\OSimulate.dir\src\memory_management\segmentation.cpp.i
 
 CMakeFiles/OSimulate.dir/src/memory_management/segmentation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/OSimulate.dir/src/memory_management/segmentation.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\sidde\Documents\GitHub\OSimulate\src\memory_management\segmentation.cpp -o CMakeFiles\OSimulate.dir\src\memory_management\segmentation.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\memory_management\segmentation.cpp" -o CMakeFiles\OSimulate.dir\src\memory_management\segmentation.cpp.s
 
 CMakeFiles/OSimulate.dir/src/utils.cpp.obj: CMakeFiles/OSimulate.dir/flags.make
 CMakeFiles/OSimulate.dir/src/utils.cpp.obj: CMakeFiles/OSimulate.dir/includes_CXX.rsp
-CMakeFiles/OSimulate.dir/src/utils.cpp.obj: C:/Users/sidde/Documents/GitHub/OSimulate/src/utils.cpp
+CMakeFiles/OSimulate.dir/src/utils.cpp.obj: C:/Users/Piyush\ Ingle/OneDrive/Documents/GitHub/OSimulate/src/utils.cpp
 CMakeFiles/OSimulate.dir/src/utils.cpp.obj: CMakeFiles/OSimulate.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\sidde\Documents\GitHub\OSimulate\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/OSimulate.dir/src/utils.cpp.obj"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OSimulate.dir/src/utils.cpp.obj -MF CMakeFiles\OSimulate.dir\src\utils.cpp.obj.d -o CMakeFiles\OSimulate.dir\src\utils.cpp.obj -c C:\Users\sidde\Documents\GitHub\OSimulate\src\utils.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/OSimulate.dir/src/utils.cpp.obj"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/OSimulate.dir/src/utils.cpp.obj -MF CMakeFiles\OSimulate.dir\src\utils.cpp.obj.d -o CMakeFiles\OSimulate.dir\src\utils.cpp.obj -c "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\utils.cpp"
 
 CMakeFiles/OSimulate.dir/src/utils.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/OSimulate.dir/src/utils.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\sidde\Documents\GitHub\OSimulate\src\utils.cpp > CMakeFiles\OSimulate.dir\src\utils.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\utils.cpp" > CMakeFiles\OSimulate.dir\src\utils.cpp.i
 
 CMakeFiles/OSimulate.dir/src/utils.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/OSimulate.dir/src/utils.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\sidde\Documents\GitHub\OSimulate\src\utils.cpp -o CMakeFiles\OSimulate.dir\src\utils.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\src\utils.cpp" -o CMakeFiles\OSimulate.dir\src\utils.cpp.s
 
 # Object files for target OSimulate
 OSimulate_OBJECTS = \
@@ -333,7 +333,7 @@ OSimulate.exe: CMakeFiles/OSimulate.dir/build.make
 OSimulate.exe: CMakeFiles/OSimulate.dir/linkLibs.rsp
 OSimulate.exe: CMakeFiles/OSimulate.dir/objects1.rsp
 OSimulate.exe: CMakeFiles/OSimulate.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\sidde\Documents\GitHub\OSimulate\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Linking CXX executable OSimulate.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_16) "Linking CXX executable OSimulate.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\OSimulate.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -345,6 +345,6 @@ CMakeFiles/OSimulate.dir/clean:
 .PHONY : CMakeFiles/OSimulate.dir/clean
 
 CMakeFiles/OSimulate.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\sidde\Documents\GitHub\OSimulate C:\Users\sidde\Documents\GitHub\OSimulate C:\Users\sidde\Documents\GitHub\OSimulate\build C:\Users\sidde\Documents\GitHub\OSimulate\build C:\Users\sidde\Documents\GitHub\OSimulate\build\CMakeFiles\OSimulate.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate" "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate" "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\build" "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\build" "C:\Users\Piyush Ingle\OneDrive\Documents\GitHub\OSimulate\build\CMakeFiles\OSimulate.dir\DependInfo.cmake" "--color=$(COLOR)"
 .PHONY : CMakeFiles/OSimulate.dir/depend
 
