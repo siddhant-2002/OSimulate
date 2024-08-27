@@ -8,7 +8,7 @@ struct Process {
 
 void fcfsScheduling(const std::vector<Process>& processes) {
     int wait_time = 0;
-    int total_wait_time = 0;
+    int total_wait_time = 0; 
     int total_turnaround_time = 0;
 
     for (const auto& process : processes) {
